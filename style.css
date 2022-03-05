@@ -1,0 +1,110 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e4e4e4;
+}
+/* HEADER */
+
+.Name {
+  font-family: sans-serif;
+  font-size: 40px;
+  color: #069af0da;
+  font-weight: normal;
+  text-align: center;
+}
+
+.formula {
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: normal;
+  color: #219711c0;
+  font-style: italic;
+  text-align: center;
+}
+
+.author-img {
+  width: 200px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.science {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.info {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* ARTICLE */
+
+ul {
+  margin-left: 60px;
+}
+
+.About {
+  line-height: 1.5;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.imp {
+  margin-left: 55px;
+  font-family: sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  color: #2c2c2c;
+  margin-bottom: 10px;
+}
+
+.by {
+  font-family: sans-serif;
+  margin-left: 55px;
+  margin-bottom: 10px;
+}
+
+/* FOOTER */
+
+.more {
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  color: #bf39e7;
+}
+
+/* LINKs */
+
+a:link {
+  color: #1ca1fa;
+  text-decoration: none;
+  font-style: italic;
+}
+
+a:visited {
+  color: #1ca1fa;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #120968;
+}
+
+a:active {
+  font-style: italic;
+}
